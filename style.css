@@ -103,7 +103,7 @@ p{
         margin: 10px;
     }
     aside{
-        width: calc(100% - 20px);
+        width: calc(100% - 30px);
     }
     main{
        width: calc(100% - 20px);
